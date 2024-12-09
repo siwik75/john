@@ -7,6 +7,7 @@
 *.rej
 
 *.tmp
+.vscode
 *~
 *.old
 *.bak
